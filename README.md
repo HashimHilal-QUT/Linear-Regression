@@ -70,8 +70,8 @@ Linear-Regression/
 │   └── Data/
 │	├── Pokemon.csv
 └── Retail Sales Trends/
-    ├── Retail Sales Trends.ipynb
-    └── Data/
+│   ├── Retail Sales Trends.ipynb
+│   └── Data/
 │	├── Warehouse_and_Retail_Sales.csv    
 ```
 
